@@ -3,3 +3,9 @@ tensorflow==2.18.0  # or another compatible version
 numpy
 Pillow
 matplotlib
+streamlit
+tensorflow
+gdown
+numpy
+Pillow
+matplotlib
