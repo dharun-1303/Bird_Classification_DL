@@ -1,5 +1,5 @@
 streamlit
-tensorflow==2.11.0  # or another compatible version
+tensorflow==2.18.0  # or another compatible version
 numpy
 Pillow
 matplotlib
